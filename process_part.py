@@ -10,11 +10,11 @@ API_KEY = "AIzaSyDn5m6m-k27vFPpQPLiNYRgGE-2prFQv9k" # Best to use Railway ENV va
 
 # Step 1: File IDs for each part stored on your Google Drive
 GDRIVE_FILE_IDS = {
-    "1": "FILE_ID_FOR_PART_1",
-    "2": "FILE_ID_FOR_PART_2",
-    "3": "FILE_ID_FOR_PART_3",
-    "4": "FILE_ID_FOR_PART_4",
-    "5": "FILE_ID_FOR_PART_5"
+    "1": "1Kf_WXskvNwmdrTtGLQykJPWrBgC7Bz6I",
+    "2": "1kTra2lO9pYeOCjWt6yWXafOPTOjFoVYc",
+    "3": "1qUyt1xndcoDB_V3-ZVTKxmPnZgFqCytP",
+    "4": "1xlVWbNCUhHmPFugsMOO3WcOcF78l0nYn",
+    "5": "1KsRYSkh_9DacU3Syrq1FegsfRac6XW_H"
 }
 
 def download_csv(part_number):
